@@ -9,5 +9,5 @@
 <br/>
 
 #### For any inquires you can reach me at:
-E-Mail: info@jurski.eu<br/>
+E-Mail: piotr@jurski.eu<br/>
 Phone: +48 570 382 059
