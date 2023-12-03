@@ -3,7 +3,7 @@
 ✅ Faster time to market  
 ✅ Improved availability and scalability  
 ✅ IT cost optimization  
-✅ Guarantee  
+✅ Quality guarantee  
 
 ### Let me help You manage Your applications with ease and optimize Your Kubernetes workloads and deployments 🎯
 <br/>
